@@ -29,5 +29,5 @@ Como restaurar de fabrica un iPhone desde el mismo dispositivo.
  How to Setup and Use iCloud, How to bypass iPhone Activation
  without PC [iCloud fix]
  
- idevtool webpage http://idevicetool.eu
+ idevtool webpage http://idevicetool.com
  
